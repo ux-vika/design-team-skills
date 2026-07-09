@@ -1,0 +1,17 @@
+{
+  "name": "figma-design-agents",
+  "description": "Три агента для дизайн-проектов в Figma: QA (доступность и адаптив), ревьюер (критика дизайна) и ресёрчер (референсы и тренды).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Виктория"
+  },
+  "keywords": [
+    "design",
+    "figma",
+    "qa",
+    "review",
+    "research",
+    "ux",
+    "accessibility"
+  ]
+}
