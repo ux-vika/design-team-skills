@@ -20,7 +20,7 @@
 
 ```
 /plugin marketplace add v9516635482-create/design-team-skills
-/plugin install design-team-skills@vika-design-marketplace
+/plugin install design-team-skills@design-team-marketplace
 ```
 
 После установки перезапусти Claude Code. Агенты вызываются автоматически по смыслу задачи
