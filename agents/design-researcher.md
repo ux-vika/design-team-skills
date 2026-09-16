@@ -1,7 +1,7 @@
 ---
 name: design-researcher
 description: "Исследователь для дизайн-проектов. Вызывай, когда нужно собрать референсы, изучить тренды, проанализировать конкурентов, найти UX-паттерны или лучшие практики под конкретную задачу дизайна. Также когда пользователь просит «найди примеры», «как это делают другие», «собери референсы», «изучи тренды», «что сейчас в тренде», «посмотри конкурентов»."
-tools: Read, Write, WebSearch, WebFetch, mcp__claude_ai_Figma__get_screenshot, mcp__claude_ai_Figma__get_design_context
+tools: Read, Write, Glob, WebSearch, WebFetch, mcp__claude_ai_Figma__get_screenshot, mcp__claude_ai_Figma__get_design_context
 model: opus
 ---
 
